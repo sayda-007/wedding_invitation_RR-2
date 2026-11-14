@@ -430,10 +430,10 @@ function App() {
                   }}
                 >
                   <p className="invitation-greeting-english">
-                    A warm invitation to you and your family
+                    A warm invitation to you.
                   </p>
                   <p className="invitation-greeting-bengali">
-                    আপনাকে এবং আপনার পরিবার-কে সাদর আমন্ত্রণ
+                    আপনাকে সাদর আমন্ত্রণ
                   </p>
                 </motion.div>
 
@@ -450,7 +450,7 @@ function App() {
                   }}
                 >
                   With heartfelt joy and gratitude, we invite you to witness
-                  our Walima celebration and share in the blessings of this
+                  the Walima celebration and share in the blessings of this
                   new chapter.
                 </motion.p>
 
@@ -981,7 +981,7 @@ function App() {
                     delay: prefersReducedMotion ? 0 : 0.4,
                   }}
                 >
-                  আপনাদের উপস্থিতি আমাদের আনন্দকে পূর্ণতা দেবে, ইনশাআল্লাহ।
+                  আপনার উপস্থিতি আমাদের আনন্দকে পূর্ণতা দেবে, ইনশাআল্লাহ।
                 </motion.p>
 
                 <motion.p

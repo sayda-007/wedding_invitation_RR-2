@@ -33,7 +33,7 @@ export const invitationData = {
       phone: '+8801552390899',
     },
     {
-      name: 'Md. Sazidul Islam (Sazid)',
+      name: 'Md. Shazidul Islam (Sazid)',
       phone: '+8801621075797',
     },
   ] as Contact[],
